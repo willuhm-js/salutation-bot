@@ -1,5 +1,5 @@
 {
-  "name": "Salutation",
+  "name": "salutation-bot",
   "version": "1.0.0",
   "description": "A greeting bot that says hello to new members using custom components.",
   "main": "src/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/willuhm-js/salutation.git"
+    "url": "git+https://github.com/willuhm-js/salutation-bot.git"
   },
   "keywords": [
     "discord.js"
@@ -19,9 +19,9 @@
   "author": "William Faircloth",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/willuhm-js/salutation/issues"
+    "url": "https://github.com/willuhm-js/salutation-bot/issues"
   },
-  "homepage": "https://github.com/willuhm-js/salutation#readme",
+  "homepage": "https://github.com/willuhm-js/salutation-bot#readme",
   "dependencies": {
     "@discordjs/rest": "^0.5.0",
     "discord.js": "^13.8.1",
