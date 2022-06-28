@@ -5,8 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "build": "tsc",
-    "start": "node bot/index.js",
-    "all": "npm run build && npm run deploy && npm run start"
+    "start": "node bot/index.js"
   },
   "repository": {
     "type": "git",
